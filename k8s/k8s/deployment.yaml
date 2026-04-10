@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: house-price-container
-        image: your-dockerhub-username/house-price-ml:latest
+        image: urk23cs1102/house-price-ml:latest
         ports:
         - containerPort: 8080
